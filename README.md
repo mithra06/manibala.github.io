@@ -26,3 +26,26 @@
 
 <hr> -->
 
+## Projects
+
+### Search You PDF
+
+https://github.com/mithra06/search-your-pdf
+
+• Project based on searching PDF with some questions. This is an opensource model. So, no OpenAI key required. • For Text Preprocessing, Langchain is used and to create embeddings, sentence Transformer used. 
+
+• Vector Store (ChromaDB) used for storing Embeddings.
+
+### Gemini Pro to retrieving SQL queries
+
+https://github.com/mithra06/sql-gemini
+
+With Gemini Pro and LLM, we're taking our database for querying and it will convert the text to SQL and this query will hit our database and retrieve the results.
+
+### End to end E-Commerce Chatbot With AWS Deployment
+
+https://github.com/mithra06/e-commercebot
+
+Leveraging the capabilities of OpenAI's natural language processing models, I crafted a chatbot that understands user intent and delivers personalized responses. Astra DB (Cassandra) and Langchain to create a smart and efficient conversational AI assistant for our online store.
+
+• For LLM Pipeline, huggingface used
